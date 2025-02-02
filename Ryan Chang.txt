@@ -1,0 +1,19 @@
+Ryan’s Form Design of the database has four buttons of:
+•	Get Total Population
+•	Get Average Population
+•	Get Highest Population
+•	Get Minimum Population
+There is no “ascending order”, “descending order" or "Exit” button. The title text of the assignment should be “Population Database” instead of “Lab 2”. 
+The file name was partially met titling, “Ryan-Chang-Lab-2-CPT-206”; which I greatly appreciated the separation title program assignments. 
+However, it should have been titled, “RChang-Lab-2” like the course addendum showed at the very last page when submitting the assignment [highlighted in yellow].
+
+The code, inside the Form Design, is short and neat. There are no comments to show what each button do for the program and they all show a message box for each 
+button.
+
+Upon running the program, a Microsoft Visual Studio message appeared and said,
+	“There were build errors. Would you like to continue and run the last successful build?”
+with a “Yes” or “No” option. I clicked on the “No” option because I didn’t want to risk my computer to crash. Thus, leading me back to the code and ending the program.
+
+Overall, the program assignment is considered half complete and not complete. The “half complete” assignment shows the design form, code, and the 'mdf' file 
+and the other half of “not complete” is not having the program run correctly without no error message and no comments within the code. Additionally, there is no form 
+of the mdf file to pull up the database and details about the city and population.
